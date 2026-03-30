@@ -1,0 +1,1 @@
+# wazuh-windows-file-correlation-rules
